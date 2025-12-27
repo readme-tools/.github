@@ -5,6 +5,7 @@ GitHub organization maintaining the
 ecosystem, created to make maintenance and collaboration easier.
 
 We currently maintain:
+
 - [github-readme-stats](https://github.com/readme-tools/github-readme-stats)
   (fork) as our latest release branch and a `next` branch upstream.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -26,3 +27,8 @@ upstream to prioritize and assign work. Thanks to everyone who files issues,
 reviews PRs, and helps keep this project useful for the community, especially
 [Anurag Hazra](https://github.com/anuraghazra) for starting it, and all
 contributors over the years. ❤️
+
+For general org-wide discussion, use the
+[Readme Tools discussions](https://github.com/orgs/readme-tools/discussions);
+repository-specific questions should stay in the relevant repo's issues or
+discussions.
