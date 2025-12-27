@@ -21,7 +21,7 @@ project whenever possible, until the two have diverged too far.
 ## Contributing
 
 We welcome contributions from the community. Please read our guidelines in
-[CONTRIBUTING.md](CONTRIBUTING.md), including how we use the
+[CONTRIBUTING.md](../CONTRIBUTING.md), including how we use the
 [Top Issues dashboard](https://github.com/anuraghazra/github-readme-stats/issues/1935)
 upstream to prioritize and assign work.
 
