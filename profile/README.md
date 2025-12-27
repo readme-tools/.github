@@ -1,5 +1,3 @@
-# readme-tools
-
 GitHub organization maintaining the
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ecosystem, created to make maintenance and collaboration easier.
