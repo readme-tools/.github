@@ -46,4 +46,5 @@ change.
 ## License
 
 By contributing, you agree that your contributions will be licensed under the
-MIT License used by these repositories.
+license specified in the target repository. If no license file is present,
+assume [MIT](LICENSE).
