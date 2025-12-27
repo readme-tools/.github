@@ -4,12 +4,11 @@ GitHub organization maintaining the
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ecosystem, created to make maintenance and collaboration easier.
 
-## What we maintain
-
+We currently maintain:
 - [github-readme-stats](https://github.com/readme-tools/github-readme-stats)
-  (fork) functioning as our latest release branch and a `next` branch upstream.
+  (fork) as our latest release branch and a `next` branch upstream.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  (upstream) functioning as the stable branch we keep in sync.
+  (upstream) as the stable branch we keep in sync.
 - [github-readme-stats-action](https://github.com/readme-tools/github-readme-stats-action)
   GitHub Action used as the recommended way to run `github-readme-stats`.
 - Supporting tooling used by the project.
@@ -20,12 +19,10 @@ project whenever possible, until the two have diverged too far.
 
 ## Contributing
 
-We welcome contributions from the community. Please read our guidelines in
+Contributions are welcome. Please read
 [CONTRIBUTING.md](../CONTRIBUTING.md), including how we use the
 [Top Issues dashboard](https://github.com/anuraghazra/github-readme-stats/issues/1935)
-upstream to prioritize and assign work.
-
-## Thanks
-
-Thanks to everyone who files issues, reviews PRs, and helps keep this project
-useful for the community, especially [Anurag Hazra](https://github.com/anuraghazra) for starting it, and all contributors over the years. ❤️
+upstream to prioritize and assign work. Thanks to everyone who files issues,
+reviews PRs, and helps keep this project useful for the community, especially
+[Anurag Hazra](https://github.com/anuraghazra) for starting it, and all
+contributors over the years. ❤️
