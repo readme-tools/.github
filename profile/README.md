@@ -29,6 +29,6 @@ reviews PRs, and helps keep this project useful for the community, especially
 contributors over the years. ❤️
 
 For general org-wide discussion, use the
-[Readme Tools discussions](https://github.com/orgs/readme-tools/discussions);
-repository-specific questions should stay in the relevant repo's issues or
+[Readme Tools discussions](https://github.com/orgs/readme-tools/discussions).
+Repository-specific questions should stay in the relevant repo's issues or
 discussions.
