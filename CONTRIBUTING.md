@@ -1,4 +1,4 @@
-# Contributing to readme-tools
+# Contributing to Github Readme Stats
 
 Thanks for your interest in contributing. We want this to be friendly, clear,
 and low-friction for everyone.

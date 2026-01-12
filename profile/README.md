@@ -6,11 +6,11 @@ ecosystem, created to make maintenance and collaboration easier.
 
 We currently maintain:
 
-- [github-readme-stats](https://github.com/readme-tools/github-readme-stats)
-  (fork) as our latest release branch and a [next](https://github.com/readme-tools/github-readme-stats/tree/next) branch upstream.
+- [github-readme-stats](https://github.com/stats-organization/github-readme-stats)
+  (fork) as our latest release branch and a [next](https://github.com/stats-organization/github-readme-stats/tree/next) branch upstream.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   (upstream) as the stable branch we keep in sync.
-- [github-readme-stats-action](https://github.com/readme-tools/github-readme-stats-action)
+- [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action)
   GitHub Action used as the recommended way to run `github-readme-stats`.
 - Supporting tooling used by the project.
 
@@ -29,5 +29,5 @@ reviews PRs, and helps keep this project useful for the community, especially
 contributors over the years. ❤️
 
 For general org-wide discussion, use the
-[Readme Tools discussions](https://github.com/orgs/readme-tools/discussions). Repository-specific questions should stay in the relevant repo's issues or
+[Readme Tools discussions](https://github.com/orgs/stats-organization/discussions). Repository-specific questions should stay in the relevant repo's issues or
 discussions.
