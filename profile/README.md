@@ -5,13 +5,10 @@ GitHub organization maintaining the
 ecosystem, created to make maintenance and collaboration easier.
 
 We currently maintain:
-
-- [github-readme-stats](https://github.com/stats-organization/github-readme-stats)
-  (fork) as our latest release branch and a [next](https://github.com/stats-organization/github-readme-stats/tree/next) branch upstream.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  (upstream) as the stable branch we keep in sync.
-- [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action)
-  GitHub Action used as the recommended way to run `github-readme-stats`.
+- [github-readme-stats](https://github.com/stats-organization/github-readme-stats) (fork) — main development fork where [next](https://github.com/stats-organization/github-readme-stats/tree/next) is the active release branch which we periodically backport to upstream.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (upstream) — the stable reference repository we keep in sync.
+- [Extended fork](https://github.com/stats-organization/github-readme-stats-extended) (fork) — used to prototype changes before they are promoted to the main fork.
+- [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) — GitHub Action used as the recommended way to run `github-readme-stats`.
 - Supporting tooling used by the project.
 
 We aim to backport changes from our fork to the upstream
